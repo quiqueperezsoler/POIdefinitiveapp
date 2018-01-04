@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/POIdefinitiveapp.iml" filepath="$PROJECT_DIR$/POIdefinitiveapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POIdefinitiveapp.iml" filepath="$PROJECT_DIR$/.idea/POIdefinitiveapp.iml" />
+      <module fileurl="file://C:\Users\User\AndroidStudioProjects\POIdefinitiveapp\POIdefinitiveapp.iml" filepath="C:\Users\User\AndroidStudioProjects\POIdefinitiveapp\POIdefinitiveapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

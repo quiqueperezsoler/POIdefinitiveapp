@@ -14,4 +14,7 @@
         completions."
     </string>
     <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">2360986273927634</string>
+    <string name="fb_login_protocol_scheme">fb2360986273927634</string>
+
 </resources>
